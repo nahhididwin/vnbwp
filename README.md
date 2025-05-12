@@ -1,2 +1,2 @@
-# vnbwp
+# VNBWP
 Vietnamese Bedwars Practice
