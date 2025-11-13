@@ -1,6 +1,6 @@
 # VNBWP
 Vietnamese Bedwars Practice
 
-https://nahhididwin.github.io/vnbwp/
+Website Link: https://nahhididwin.github.io/vnbwp/
 
 
