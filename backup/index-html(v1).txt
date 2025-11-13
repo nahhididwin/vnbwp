@@ -44,7 +44,7 @@
                     </div>
                     <div class="col-lg-8 align-self-baseline">
                         <p class="text-white-75 mb-5">MK-VNBWP là máy chủ chuyên cho Bedwars, SMP và Practice, hãy tham gia ngay!</p>
-                        <a class="btn btn-xl" href="#about" style="background-color: black; color: white;">Bắt Đầu Ngay!</a>
+                        <a class="btn btn-xl" href="#about" style="background-color: black; color: white;">Tìm Hiểu Ngay!</a>
                     </div>
                 </div>
             </div>
@@ -98,8 +98,6 @@
                             <div class="mb-2"><i class="bi-heart fs-1 text-dark"></i></div>
                             <h3 class="h4 mb-2">Blog</h3>
                             <p class="text-muted mb-0">Truy cập blog của chúng tôi để xem chi tiết! : about:blank</p>
-                            <h3 class="h4 mb-2">Github</h3>
-                            <p class="text-muted mb-0">github : https://github.com/nahhididwin/vnbwp/</p>
                         </div>
                     </div>
                 </div>
@@ -170,7 +168,7 @@
         <section class="page-section bg-dark text-white">
             <div class="container px-4 px-lg-5 text-center">
                 <h2 class="mb-4">Hãy Cùng Tham Gia Với Chúng Tôi Ngay Nào!</h2>
-                <a class="btn btn-light btn-xl" href="http://www.vietnambwp.blogspot.com/2025/05/anticheat.html">Bắt Đầu Hành Trình</a>
+                <a class="btn btn-light btn-xl" href="about:blank">Bắt Đầu Hành Trình</a>
             </div>
         </section>
         <!-- Contact-->
@@ -178,7 +176,7 @@
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-8 col-xl-6 text-center">
-                        <h2 class="mt-0">Hãy đưa ra yêu cầu của bạn bên dưới :</h2>
+                        <h2 class="mt-0">Hãy đưa ra GÓP Ý của bạn bên dưới :</h2>
                         <hr class="divider" />
                         <p class="text-muted mb-5">Hãy Viết Càng Chi Tiết Càng Tốt Nhé Bạn Tôi Ơi, Hoặc Bạn Cũng Có Thể Vào Server Discord Tạo Ticket Nhé!</p>
                     </div>
