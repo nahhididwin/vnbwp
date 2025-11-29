@@ -1,5 +1,5 @@
-# VNBWP
-Vietnamese Bedwars Practice -> Vietnamese Bedwars Practice SMP (new gen)
+# VNBWP - Mineknight
+Vietnamese Bedwars Practice -> mineknight (new gen)
 
 Website source code.
 
