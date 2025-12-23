@@ -1,5 +1,6 @@
 
 window.addEventListener('DOMContentLoaded', event => {
+    document.documentElement.classList.add('js');
 
     // Navbar shrink function
     var navbarShrink = function () {
@@ -47,5 +48,24 @@ window.addEventListener('DOMContentLoaded', event => {
     new SimpleLightbox({
         elements: '#portfolio a.portfolio-box'
     });
+
+    // Reveal cards on scroll
+    const revealItems = document.querySelectorAll('.reveal-on-scroll');
+    if (revealItems.length) {
+        if ('IntersectionObserver' in window) {
+            const observer = new IntersectionObserver((entries, activeObserver) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('is-visible');
+                        activeObserver.unobserve(entry.target);
+                    }
+                });
+            }, { threshold: 0.15, rootMargin: '0px 0px -10% 0px' });
+
+            revealItems.forEach(item => observer.observe(item));
+        } else {
+            revealItems.forEach(item => item.classList.add('is-visible'));
+        }
+    }
 
 });
